@@ -1,0 +1,38 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: Simple CloudFormation Example - S3 Website
+Parameters:
+  BucketName:
+    Type: String
+    Default: simples3site
+    Description: Name of S3 Bucket
+
+Resources:
+  WebSiteBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: PublicRead
+      BucketName: !Ref BucketName
+      Tags:
+        -
+          Key: Project
+          Value: Sample
+      WebsiteConfiguration:
+        IndexDocument: index.html
+    DeletionPolicy: Retain
+
+  WebSiteBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref BucketName
+      PolicyDocument:
+        Statement:
+          Action: s3:GetObject
+          Effect: Allow
+          Resource: !Join [ "", ["arn:aws:s3:::",!Ref BucketName , "/*"]]
+          Principal: "*"
+    DeletionPolicy: Retain
+
+Outputs:
+  WebsiteURL:
+    Value: !GetAtt ["WebSiteBucket", "WebsiteURL"]
+    Description: URL for the S3 hosted website
