@@ -1,0 +1,26 @@
+Resources for module 06
+-----------------------
+
+Archive and backup data using Glacier
+https://aws.amazon.com/glacier/
+https://aws.amazon.com/glacier/faqs/
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-glacier.html
+https://docs.aws.amazon.com/cli/latest/reference/glacier/upload-multipart-part.html
+https://docs.aws.amazon.com/cli/latest/reference/glacier/initiate-job.html
+https://docs.aws.amazon.com/amazonglacier/latest/dev/api-initiate-job-post.html
+https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html
+https://docs.aws.amazon.com/amazonglacier/latest/dev/amazon-glacier-data-model.html
+https://docs.aws.amazon.com/amazonglacier/latest/dev/amazon-glacier-supported-operations.html
+https://docs.aws.amazon.com/amazonglacier/latest/dev/amazon-glacier-accessing.html
+https://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html
+
+Versioning:
+https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/view-object-versions.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/enable-versioning.html
+
+Managing the life-cycle of data objects
+https://aws.amazon.com/about-aws/whats-new/2014/05/20/amazon-s3-now-supports-lifecycle-rules-for-versioning/
+https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html?ref_=pe_411040_118635630
+https://docs.aws.amazon.com/AmazonS3/latest/dev/how-to-set-lifecycle-configuration-intro.html?shortFooter=true
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/create-lifecycle.html?shortFooter=true

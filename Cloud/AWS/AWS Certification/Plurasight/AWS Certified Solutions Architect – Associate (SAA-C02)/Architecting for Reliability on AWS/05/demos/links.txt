@@ -1,5 +1,0 @@
-AWS Managed VPN Connections
-https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_VPN.html
-
-What is AWS Direct Connect?
-https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html

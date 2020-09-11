@@ -1,0 +1,8 @@
+Detach an EBS volume
+--------------------
+aws ec2 detach-volume --volume-id [volume-id-here]
+
+
+Create EBS snapshot
+-------------------
+aws ec2 create-snapshot --volume-id [volume-id-here] --description "[your description here.]"

@@ -1,0 +1,12 @@
+**ALWAYS MAKE SURE YOU CLEANUP YOUR RESOURCES AFTER PRACTICING TO AVOID GETTING CHARGED**
+
+
+commands used in the demo:
+--------------------------
+
+create encrypted ebs volume:
+aws ec2 create-volume --size 1 --region us-east-1 --availability-zone us-east-1c --encrypted --kms-key-id [your-kms-key-id] --volume-type gp2
+
+copy snapshot:
+aws --region us-east-1 ec2 copy-snapshot --source-region us-east-1 --source-snapshot-id [source-id] --encrypted --kms-key-id [your-kms-key-id] --description "This is my copied snapshot."
+

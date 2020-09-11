@@ -1,0 +1,41 @@
+Resources for mosule 03
+-----------------------
+
+Encrypting data in a bucket:
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/bucket-encryption.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/bucket-encryption.html?shortFooter=true#bucket-encryption-update-bucket-policy
+https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingKMSEncryption.html?shortFooter=true
+https://aws.amazon.com/blogs/security/how-to-prevent-uploads-of-unencrypted-objects-to-amazon-s3/
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/default-bucket-encryption.html
+https://docs.aws.amazon.com/kms/latest/developerguide/limits.html?shortFooter=true
+https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/serv-side-encryption.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingClientSideEncryption.html
+https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
+https://docs.aws.amazon.com/general/latest/gr/aws_sdk_cryptography.html
+https://www.nuget.org/packages?q=Tags%3A%22aws-sdk-v3%22
+
+AWS SDK for client-side encryption:
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingClientSideEncryption.html?shortFooter=true
+https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/kms-keys-s3-encryption.html
+
+Managing S3 Security Bucket ACL's and Policies:
+
+https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/
+https://aws.amazon.com/blogs/security/how-to-use-bucket-policies-and-apply-defense-in-depth-to-help-secure-your-amazon-s3-data/
+https://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-overview.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/set-permissions.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/s3-access-control.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html?shortFooter=true (use these examples in demo or slides_
+https://docs.aws.amazon.com/AmazonS3/latest/dev/S3_ACLs_UsingACLs.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-block-public-access.html
+
+AWS CLI:
+
+https://docs.aws.amazon.com/cli/latest/reference/s3api/get-object-acl.html
+https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object-acl.html
+https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-policy.html
+https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-policy.html
+

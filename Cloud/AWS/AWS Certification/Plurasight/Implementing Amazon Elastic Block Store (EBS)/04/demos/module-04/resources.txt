@@ -1,0 +1,13 @@
+To read more:
+-------------
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSOptimized.html
+https://aws.amazon.com/ebs/faqs/#Performance
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-cloudwatch.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/viewing_metrics_with_cloudwatch.html?shortFooter=true
+
+List of EBS-Optimized instances:
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSOptimized.html#ebs-optimization-support
+
+EBS metrics:
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/viewing_metrics_with_cloudwatch.html

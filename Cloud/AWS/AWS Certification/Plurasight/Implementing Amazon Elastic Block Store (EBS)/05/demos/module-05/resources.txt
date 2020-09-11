@@ -1,0 +1,14 @@
+**ALWAYS MAKE SURE YOU CLEANUP YOUR RESOURCES AFTER PRACTICING TO AVOID GETTING CHARGED**
+
+Resources:
+----------
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
+https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
+https://aws.amazon.com/blogs/aws/protect-your-data-with-new-ebs-encryption/
+https://aws.amazon.com/blogs/aws/new-encrypted-ebs-boot-volumes/
+https://docs.aws.amazon.com/kms/latest/developerguide/services-ebs.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-copy-snapshot.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-creating-volume.html
+https://docs.aws.amazon.com/cli/latest/reference/ec2/create-volume.html
+https://docs.aws.amazon.com/cli/latest/reference/ec2/copy-snapshot.html
+

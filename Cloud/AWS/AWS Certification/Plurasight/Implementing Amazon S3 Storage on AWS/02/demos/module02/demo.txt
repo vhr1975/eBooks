@@ -1,0 +1,8 @@
+Create a new bucket:
+aws s3api create-bucket --bucket <my-bucket-name> --region <us-east-1>
+
+Copy file between EC2 local storage and S3:
+aws s3 cp file.txt s3://<my-bucket-name>/file.txt
+
+Sync the whole bucket or directory:
+aws s3 sync . s3://<my-bucket-name>

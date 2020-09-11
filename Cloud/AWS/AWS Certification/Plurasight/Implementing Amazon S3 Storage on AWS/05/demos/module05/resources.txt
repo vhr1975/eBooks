@@ -1,0 +1,27 @@
+Resources for module 05
+-----------------------
+
+S3 Transfer Acceleration:
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/transfer-acceleration.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/enable-transfer-acceleration.html
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html
+http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/transfer-acceleration-examples.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/transfer-acceleration-examples.html#transfer-acceleration-examples-aws-cli
+https://docs.aws.amazon.com/cli/latest/topic/s3-config.html#use-accelerate-endpoint
+https://docs.aws.amazon.com/AmazonS3/latest/dev/transfer-acceleration-examples.html#transfer-acceleration-examples-dotnet
+
+Migrating data with Snowball and Snowmobile:
+
+https://aws.amazon.com/snowball/
+https://docs.aws.amazon.com/snowball/latest/ug/getting-started.html
+https://aws.amazon.com/snowball/details/
+https://docs.aws.amazon.com/snowball/latest/ug/create-import-job-steps.html?shortFooter=true
+https://docs.aws.amazon.com/snowball/latest/ug/device-differences.html
+https://www.youtube.com/watch?v=8vQmTZTq7nw
+
+Use Direct Connect to improve transfer and security:
+
+https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html
+https://docs.aws.amazon.com/directconnect/latest/UserGuide/remote_regions.htm

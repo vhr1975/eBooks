@@ -1,0 +1,28 @@
+Resources for module 03
+-----------------------
+https://docs.aws.amazon.com/cli/latest/reference/ec2/attach-volume.html
+https://docs.aws.amazon.com/cli/latest/reference/ec2/create-volume.html
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-creating-snapshot.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-copy-snapshot.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-deleting-snapshot.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-restoring-volume.html
+https://aws.amazon.com/about-aws/whats-new/2018/07/introducing-amazon-data-lifecycle-manager-for-ebs-snapshots/
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html#how_snapshots_work
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html#EBSEncryption_supported_instances
+
+Installing AWS CLI on all platforms
+-----------------------------------
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
+
+List of instance types which support attaching encrypted EBS volumes:
+---------------------------------------------------------------------
+See https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html#EBSEncryption_supported_instances:
+-General purpose: A1, M3, M4, M5, M5d, T2, and T3
+-Compute optimized: C3, C4, C5, C5d, and C5n
+-Memory optimized: cr1.8xlarge, R3, R4, R5, R5d, X1, X1e, and z1d
+-Storage optimized: D2, h1.2xlarge, h1.4xlarge, I2, and I3
+-Accelerated computing: F1, G2, G3, P2, and P3
+-Bare metal: i3.metal, u-6tb1.metal, u-9tb1.metal, and u-12tb1.metal
