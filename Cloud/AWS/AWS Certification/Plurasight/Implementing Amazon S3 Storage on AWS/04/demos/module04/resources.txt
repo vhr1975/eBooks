@@ -1,0 +1,36 @@
+Resources for mosule 04
+-----------------------
+
+Categorizing S3 Storage Objects Using Tagging:
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/object-tagging.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/add-object-tags.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/view-object-properties.html
+
+Working with tags in AWS CLI:
+
+https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-tagging.html
+https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object-tagging.html
+https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-tagging.html
+
+Configuring S3 Logging with AWS CloudTrail:
+
+https://docs.amazonaws.cn/en_us/awscloudtrail/latest/userguide/cloudtrail-user-guide.html
+https://docs.amazonaws.cn/en_us/awscloudtrail/latest/userguide/cloudtrail-create-a-trail-using-the-console-first-time.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/enable-cloudtrail-events.html
+https://aws.amazon.com/cloudtrail/pricing/
+http://docs.amazonaws.cn/en_us/AmazonS3/latest/dev/cloudtrail-logging.html
+
+Analyzing S3 Logs with AWS Athena:
+
+https://docs.aws.amazon.com/athena/latest/ug/cloudtrail-logs.html
+https://aws.amazon.com/athena/
+https://docs.aws.amazon.com/awscloudtrail/latest/userguide/create-s3-bucket-policy-for-cloudtrail.html?icmpid=docs_cloudtrail_console
+
+Monitoring S3 metrics using CloudWatch:
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/monitoring-overview.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/monitoring-automated-manual.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/cloudwatch-monitoring.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/metrics-configurations.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/cloudtrail-logging.html

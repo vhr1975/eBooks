@@ -1,0 +1,23 @@
+
+Resources for module 02
+-----------------------
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumes.html
+https://aws.amazon.com/ebs/
+https://aws.amazon.com/ebs/faqs
+https://aws.amazon.com/free/
+https://aws.amazon.com/free/#legal
+https://aws.amazon.com/efs/faq/
+https://aws.amazon.com/what-is-cloud-object-storage/
+https://aws.amazon.com/ebs/features
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-creating-volume.html
+https://docs.aws.amazon.com/cli/latest/reference/ec2/create-volume.html
+https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Volume.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/add-instance-store-volumes.html
+
+PuTTY
+-----
+https://www.putty.org/
+

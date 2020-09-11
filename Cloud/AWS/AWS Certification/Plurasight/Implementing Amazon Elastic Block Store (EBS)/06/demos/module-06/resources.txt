@@ -1,0 +1,9 @@
+To read more:
+-------------
+https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+Handle cloudwatch events using AWS Lambda:
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-cloud-watch-events.html
+https://docs.aws.amazon.com/lambda/latest/dg/with-scheduled-events.html
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/RunLambdaSchedule.html **
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/WhatIsCloudWatchEvents.html
+https://docs.amazonaws.cn/en_us/aws/latest/userguide/cloudwatch.html

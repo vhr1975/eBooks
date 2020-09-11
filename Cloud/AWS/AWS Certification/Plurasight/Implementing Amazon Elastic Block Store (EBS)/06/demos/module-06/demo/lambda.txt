@@ -1,0 +1,35 @@
+var aws = require('aws-sdk');
+var ses = new aws.SES({
+   region: 'us-east-1'
+});
+
+exports.handler = function(event, context) {
+
+    var emailP = {
+        Destination: {
+            ToAddresses: ["receiver-email-address"]
+        },
+        Message: {
+            Body: {
+                Text: {
+                    Data: "A new EBS snapshot has been created!"
+                }
+            },
+            Subject: {
+                Data: "new EBS snapshot"
+            }
+        },
+        Source: "[sender-email-address]"
+    };
+
+    var email = ses.sendEmail(emailP, function(err, data){
+        if(err) 
+        {
+            console.log(err);
+        }
+        else 
+        {
+            context.succeed(event);
+        }
+    });
+};

@@ -1,0 +1,29 @@
+Resources for module 02
+-----------------------
+
+Identifying the usage scenarios of S3:
+https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html 
+https://docs.aws.amazon.com/AmazonS3/latest/dev/Introduction.html 
+https://docs.aws.amazon.com/AmazonS3/latest/gsg/S3-gsg-CommonUseScenarios.html
+
+Provisioning S3 Storage for Amazon EC2:
+https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/create-bucket.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/delete-bucket.html
+
+Installing AWS CLI:
+https://aws.amazon.com/cli/
+
+AWS CLI and S3:
+https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
+https://docs.aws.amazon.com/cli/latest/reference/s3/cp.html
+
+Create new AMIs using AMI tools for Linux:
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+
+Choosing a storage class:
+https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html
+https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html
+https://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html
